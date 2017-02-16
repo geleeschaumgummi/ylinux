@@ -1,1 +1,1 @@
-# ylinux
+# Any/Linux
